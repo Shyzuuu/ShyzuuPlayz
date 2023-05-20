@@ -16,5 +16,5 @@
   
   [![Shyzuu GitHub stats](https://github-readme-stats.vercel.app/api?username=shyzuuu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Shyzuu languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzuuplayz&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Shyzuu languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzuuu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
