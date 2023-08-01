@@ -4,10 +4,6 @@
 {
     "Name": "Shyzuuu",
     "Pronouns": ["He", "Him"],
-    "About Me": [
-        "Cyber Security",
-        "Open Source Development"
-    ],
     "Languages": {
         "Python": "Beginner",
         "JavaScript": "Advanced",
@@ -34,13 +30,13 @@
         ],
     },
     "Stats": {
-        "Account Age": "{{ ACCOUNT_AGE }} years",
-        "Pushed": "{{ COMMITS }} commits",
-        "Opened": "{{ ISSUES }} issues",
-        "Submitted": "{{ PULL_REQUESTS }} pull requests",
-        "Received": "{{ STARS }} stars",
-        "Own": "{{ REPOSITORIES }} repositories",
-        "Contributed to": "{{ REPOSITORIES_CONTRIBUTED_TO }} public repositories",
+        "Account Age": "2 years",
+        "Pushed": "53 commits",
+        "Opened": "3 issues",
+        "Submitted": "4 pull requests",
+        "Received": "0 stars",
+        "Own": "12 repositories",
+        "Contributed to": "5 public repositories",
     }
 }
 
