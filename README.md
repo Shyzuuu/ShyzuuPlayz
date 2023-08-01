@@ -1,6 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=shyzuuu)
-
-# Greetings! ✌️
+# Greetings! ✌️ ![Profile Views](https://komarev.com/ghpvc/?username=shyzuuu)
 
 ## About Me
 I'm a person who is passionate about various things and loves exploring new horizons. Here's what I enjoy the most:
