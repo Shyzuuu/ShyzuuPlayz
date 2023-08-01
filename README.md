@@ -1,27 +1,72 @@
-# Greetings! ✌️ ![Profile Views](https://komarev.com/ghpvc/?username=shyzuuu)
+# About Me
 
-## About Me
-I'm a person who is passionate about various things and loves exploring new horizons. Here's what I enjoy the most:
+```json
+{
+    "Name": "Shyzuuu",
+    "Pronouns": ["He", "Him"],
+    "About Me": [
+        "Cyber Security",
+        "Open Source Development"
+    ],
+    "Languages": {
+        "Python": "Beginner",
+        "JavaScript": "Advanced",
+        "TypeScript": "Beginner",
+        "Java": "Intermediate",
+        "Bash": "Intermediate",
+    },
+    "Technologies": {
+        "Backend": [
+          "Fastify",
+        ],
+        "Frontend": [
+          "Node.js",
+          "React.js",
+        ],
+        "Dev Ops": [
+          "Git",
+          "GitHub",
+          "Docker",
+        ],
+        "Operating Systems": [
+          "Windows",
+          "Linux"
+        ],
+    },
+    "Stats": {
+        "Account Age": "{{ ACCOUNT_AGE }} years",
+        "Pushed": "{{ COMMITS }} commits",
+        "Opened": "{{ ISSUES }} issues",
+        "Submitted": "{{ PULL_REQUESTS }} pull requests",
+        "Received": "{{ STARS }} stars",
+        "Own": "{{ REPOSITORIES }} repositories",
+        "Contributed to": "{{ REPOSITORIES_CONTRIBUTED_TO }} public repositories",
+    }
+}
 
-## My Interests:
-
-### Anime
-I find immense pleasure in exploring imaginative realms brimming with intricate storylines and compelling characters. Discussing anime and exchanging recommendations with fellow enthusiasts is a delightful endeavor I wholeheartedly embrace.
-
-### Continuous Learning
-I embrace the ethos of lifelong learning, consistently seeking opportunities to acquire new knowledge and refine my skillset across multiple domains. Whether it involves mastering a new language, delving into academic pursuits, or acquiring diverse expertise, I am deeply committed to personal development.
-
-### Film & Series
-As an avid cinephile and dedicated follower of compelling series, I derive great satisfaction from immersing myself in the art of storytelling. Netflix serves as an excellent platform for discovering exceptional films and series that enrich my cultural perspective.
-
-## 📫 Get in Touch
-Beyond my specific interests, I'm open to discovering new passions and connecting with like-minded individuals. Feel free to drop me a message if you want to discuss anime, learning, or if you have any Netflix recommendations! I'm always up for enriching conversations.
+```
 
 <details>
-  <summary>GitHub stats</summary>
-  <br/>
-  
-  [![Shyzuu GitHub stats](https://github-readme-stats.vercel.app/api?username=shyzuuu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>GitHub Stats</summary>
 
-  [![Shyzuu languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyzuuu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats card]](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
+
+<details>
+  <summary>GitHub Trophies</summary>
+
+[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+<details>
+  <summary>GitHub Top Langs</summary>
+
+[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=Shyzuuu
+[github trophies]: https://github-profile-trophy.vercel.app/?username=Shyzuuu&column=4&margin-w=18&margin-h=15
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Shyzuuu&layout=compact
