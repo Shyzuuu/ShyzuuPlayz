@@ -1,5 +1,3 @@
-<img alt="Banner image of anime scenery in forest" height="300px" width="100%" src="https://i.pinimg.com/originals/7a/7d/cf/7a7dcfa6474ec4cbfa81113eebe3c0dc.jpg" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shyzuuu)
 
 # Greetings! ✌️
